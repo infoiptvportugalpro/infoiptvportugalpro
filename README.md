@@ -1,16 +1,27 @@
-## Hi there 👋
+# IPTV Portugal Pro
 
-<!--
-**infoiptvportugalpro/infoiptvportugalpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to IPTV Portugal Pro — a resource for streaming technology, Smart TV compatibility, streaming device setup, and home entertainment.
 
-Here are some ideas to get you started:
+We share helpful information for viewers in Portugal and around the world who want to better understand streaming devices, internet requirements, compatible applications, and authorized streaming services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find
+
+- Smart TV and streaming device guides
+- Home streaming setup tips
+- Internet connection and playback advice
+- Streaming technology and compatibility information
+- Subscription plan and service details
+
+## Website
+
+Visit the official website for current subscription plans and service information:
+
+**https://iptvportugalpro.net/**
+
+## Helpful Guides
+
+Explore our articles about choosing streaming devices and improving your home streaming experience on our website.
+
+---
+
+*IPTV Portugal Pro — streaming technology and home entertainment guides.*
