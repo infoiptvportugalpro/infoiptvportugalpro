@@ -11,6 +11,7 @@ We share helpful information for viewers in Portugal and around the world who wa
 - Internet connection and playback advice
 - Streaming technology and compatibility information
 - Subscription plan and service details
+- - [Smart TV Compatibility Checklist](./smart-tv-compatibility-checklist.md)
 
 ## Website
 
